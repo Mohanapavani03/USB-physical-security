@@ -37,8 +37,8 @@ ch.setFormatter(formatter)
 logger.addHandler(ch)
 
 # === Email Configuration ===
-EMAIL_ADDRESS = "mohanapavani03@gmail.com"
-EMAIL_PASSWORD = "gbna zqnt qkzp gkes"  # Your app password
+EMAIL_ADDRESS = "############@gmail.com"
+EMAIL_PASSWORD = "##### ##### #####"  # Your app password
 ADMIN_EMAIL = EMAIL_ADDRESS
 
 # === HTML Report ===
