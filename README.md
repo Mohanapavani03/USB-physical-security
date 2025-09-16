@@ -22,3 +22,7 @@ pip install wmi
 opencv-python → For webcam recording (intruder detection)
 
 pip install opencv-python
+
+tkinter → For GUI (comes built-in with most Python distributions, but on some systems you might need to install python3-tk).
+
+pip install tkinter
